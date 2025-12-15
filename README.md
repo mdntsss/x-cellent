@@ -1,4 +1,4 @@
-[# X-CELLENT Client
+# X-CELLENT Client
 
 [![Made for Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-3A5B87?logo=minecraft&logoColor=white)]()
 [![Forge](https://img.shields.io/badge/Forge-Client--Side-orange)]()
