@@ -1,39 +1,50 @@
 # X-CELLENT
 
 [![Status](https://img.shields.io/badge/status-beta-orange)](./)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-3C8527)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-multi--version-3C8527)](https://www.minecraft.net/)
 [![Platform](https://img.shields.io/badge/platform-Java%20Edition-blue)](https://www.minecraft.net/store/minecraft-java-bedrock-edition)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-> ⚠️ **Внимание:** X-CELLENT находится в стадии **beta**. Работа клиента и лаунчера может быть нестабильной.
+> ⚠️ **Warning:** X-CELLENT is currently in **beta**. The client and launcher may be unstable.
 
-## О проекте
+## About
 
-**X-CELLENT** — это кастомный клиент для *Minecraft Java Edition* версии **1.20.1**, который фокусируется на оптимизации игры и повышении FPS, ускорении загрузок и снижении задержек. Клиент также добавляет несколько полезных функций, сохраняя при этом максимально близкий к ванильному игровой опыт.
+**X-CELLENT** is a custom client and launcher for *Minecraft Java Edition*, focused on improving performance, increasing FPS, speeding up load times, and reducing latency.  
+The project combines ease of use, an improved user interface, and flexible customization while keeping a near-vanilla gameplay experience.
 
-## Статус разработки
+## Features
 
-Текущие сборки имеют статус **beta**, поэтому возможны вылеты, баги и проблемы с совместимостью с некоторыми модами или конфигурациями. Ошибки, найденные пользователями, будут исправляться в следующих версиях, а стабильность клиента планируется постепенно улучшать с каждым обновлением.
+- ⚡ Performance optimization and FPS boost  
+- 🎨 Improved and modernized launcher design  
+- 🧩 Built-in mod marketplace for easy mod installation  
+- 🔧 Simple configuration and customization  
+- 🌐 Support for multiple popular Minecraft versions  
 
-## Совместимость
+## Development Status
 
-- Версия игры: **Minecraft 1.20.1**  
-- Платформа: **Java Edition**  
-- Поддержка других версий может появиться позже по мере развития проекта.
+Current builds are in **beta**, so crashes, bugs, and compatibility issues may occur.  
+Reported issues will be fixed in future updates, and overall stability will improve over time.
 
-## Установка
+## Compatibility
 
-1. Скачайте последнюю доступную сборку X-CELLENT из раздела **Releases** этого репозитория на GitHub.  
-2. Запустите лаунчер и выберите профиль X-CELLENT для Minecraft 1.20.1.  
-3. При первом запуске рекомендуется использовать чистый `.minecraft` для минимизации конфликтов с другими модами и клиентами.
+- Game versions: multiple popular versions of *Minecraft Java Edition* are supported  
+- Platform: **Java Edition**  
+- More versions will be supported as the project evolves  
 
-## Обратная связь и баг-репорты
+## Installation
 
-Если вы нашли ошибку или хотите предложить новую функцию, создайте **Issue** в этом репозитории с подробным описанием проблемы, логами и шагами для воспроизведения. Обратная связь помогает улучшать X-CELLENT и делать клиент стабильнее и удобнее для всех пользователей.
+1. Download the latest X-CELLENT build from the **Releases** section of this repository.  
+2. Launch the launcher and select your desired Minecraft version.  
+3. It is recommended to use a clean `.minecraft` directory on first launch to avoid conflicts.
 
-## Ссылки и система скинов
+## Feedback & Bug Reports
 
-- Официальный сайт проекта: https://xcellent.ct.ws/
-- Регистрация аккаунта на проекте: https://xcellent.ct.ws/register/
-- Регистрация и управление скином аккаунта: https://ely.by/  
-- Система скинов X-CELLENT использует скины, установленные через сервис Ely.by, то есть клиент полагается на внешнюю систему скинов Ely.by.
+If you find a bug or want to suggest a feature, please open an **Issue** in this repository with a detailed description, logs, and steps to reproduce the problem.  
+Your feedback helps make X-CELLENT better and more stable.
+
+## Links & Skin System
+
+- Official website: https://xcellent.ct.ws/  
+- Account registration: https://xcellent.ct.ws/register/  
+- Skin management: https://ely.by/  
+- X-CELLENT uses skins provided via Ely.by as its external skin system.
